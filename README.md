@@ -7,7 +7,7 @@
 
 Таблица Pets до удаления:
 
-![PetsTable](https://user-images.githubusercontent.com/115028350/200414195-81497b75-729e-4a17-861c-01403059dd73.png)
+![image](https://user-images.githubusercontent.com/115028350/200416109-1c1014fb-dbee-4d27-871a-ab076df5350c.png)
 
 Таблица Users после удаления владельца:
 
